@@ -16,6 +16,8 @@ public class Student {
 	
 	public int englishObtained;
 	
+	public static String standard = "10th";
+	
 	
 	
 	

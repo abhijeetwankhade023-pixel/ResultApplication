@@ -4,7 +4,7 @@ import entity.Student;
 
 public class StudentRepository {
 //Details of Students
-	public Student getRamObject() {
+	public static Student getRamObject() {
 
 		Student s = new Student();
 
@@ -19,7 +19,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getShamObject() {
+	public  static Student getShamObject() {
 
 		Student s1 = new Student();
 
@@ -34,7 +34,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getVishalObject() {
+	public static Student getVishalObject() {
 
 		Student s2 = new Student();
 
@@ -49,7 +49,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getPankajObject() {
+	public static Student getPankajObject() {
 
 		Student s3 = new Student();
 
@@ -64,7 +64,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getPrachiObject() {
+	public  static Student getPrachiObject() {
 
 		Student s4 = new Student();
 
@@ -79,7 +79,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getAkashObject() {
+	public static Student getAkashObject() {
 
 		Student s5 = new Student();
 
@@ -94,7 +94,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getNishantObject() {
+	public  static Student getNishantObject() {
 
 		Student s6 = new Student();
 
@@ -109,7 +109,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getYogeshObject() {
+	public static Student getYogeshObject() {
 
 		Student s7 = new Student();
 
@@ -124,7 +124,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getPrajaktaObject() {
+	public static Student getPrajaktaObject() {
 
 		Student s8 = new Student();
 
@@ -139,7 +139,7 @@ public class StudentRepository {
 
 	}
 
-	public Student getVaishnaviObject() {
+	public  static Student getVaishnaviObject() {
 
 		Student s9 = new Student();
 
