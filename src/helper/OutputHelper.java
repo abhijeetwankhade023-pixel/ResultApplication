@@ -14,7 +14,7 @@ public class OutputHelper {
 				System.out.println("Maths Marks :" + s.mathsObtained);
 				System.out.println("Science Marks :" + s.scienceObtained);
 				System.out.println("Standard :" +Student.standard);
-				
+				System.out.println("*******************************************");
 				
 				
 				
